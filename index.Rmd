@@ -1,5 +1,10 @@
 ---
-title: "Welcome to my website!"
+title: "DATAUNIRIO: Estatística, Transparência e Tecnologia"
 ---
 
-You're up and running!
+
+O principal objetivo do projeto DATAUNIRIO é:
+
+Disponibilizar informações, dados e metodologias que aumentem a transparência e permitam ampliar o engajamento cívico e comprometimento social da comunidade.
+
+

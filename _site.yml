@@ -1,28 +1,28 @@
-name: "YOURNAME"                                  # CHANGE HERE 
+name: "DATAUNIRIO: Estatística, Transparência e Tecnologia"                                  # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "YOURNAME"                               # CHANGE HERE 
+  title: "DATAUNIRIO"                               # CHANGE HERE 
   type: inverse
   left:
     - text: "Home"
       icon: fa-home
       href: index.html
-    - text: "About"
+    - text: "Sobre"
       icon: fa-user 
       href: about.html
-    - text: "CV"
+    - text: "Projeto"
       icon: fa-file-pdf-o
-      href: cv.html
+      href: projeto.html
     - text: "Blog"
       icon: fa-rss
-      href: https://YOURGITHUB.github.io/blog/    # CHANGE HERE 
+      href: https://dataunirio.github.io/blog/    # CHANGE HERE 
   right:
     - text: "Contact me"
       icon: fa-envelope-o
       href: mailto:YOUREMAIL                      # CHANGE HERE 
     - text: "GitHub"
       icon: fa-github
-      href: https://github.com/YOURGITHUB         # CHANGE HERE 
+      href: https://github.com/dataunirio         # CHANGE HERE 
 output:
   html_document:
     theme: cosmo
