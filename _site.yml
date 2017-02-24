@@ -7,22 +7,22 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
-    - text: "Sobre"
+    - text: "Orçamento"
       icon: fa-user 
+      href: engajamento.html
+    - text: "Transparência"
+      icon: fa-users
       href: about.html
     - text: "Projeto"
       icon: fa-file-pdf-o
       href: projeto.html
-    - text: "Blog"
-      icon: fa-rss
-      href: https://dataunirio.github.io/blog/    # CHANGE HERE 
   right:
-    - text: "Contact me"
+    - text: "Participar do projeto"
       icon: fa-envelope-o
-      href: mailto:YOUREMAIL                      # CHANGE HERE 
-    - text: "GitHub"
-      icon: fa-github
-      href: https://github.com/dataunirio         # CHANGE HERE 
+      href: participar.html
+    - text: "Nossa História"
+      icon: fa-road
+      href: historia.html
 output:
   html_document:
     theme: cosmo

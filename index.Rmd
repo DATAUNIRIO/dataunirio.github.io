@@ -2,9 +2,11 @@
 title: "DATAUNIRIO: Estatística, Transparência e Tecnologia"
 ---
 
+> "A forma de influenciar a política é agir de forma local, assim como definir as prioridades orçamentárias."
 
-O principal objetivo do projeto DATAUNIRIO é:
+O objetivo do DATAUNIRIO é:
 
-Disponibilizar informações, dados e metodologias que aumentem a transparência e permitam ampliar o engajamento cívico e comprometimento social da comunidade.
+Disponibilizar informações, dados e metodologias que aumentem a transparência e permitam ampliar o engajamento cívico e o comprometimento social da comunidade.
 
 
+![](C:/Users\Hp/Desktop/R/dataunirio.github.io/datauniriologo.png)
