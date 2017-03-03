@@ -5,7 +5,7 @@ title: "QUAL O ORÇAMENTO QUE VOCÊ FARIA PARA A UNIRIO?"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Todo mundo tem uma opinião sobre o que deveria ser feito nas finanças da nossa universidade. aqui está a sua chance de experimentar/testar as suas idéias. O valor total empenhado pela Unirio em 2016 foi de 365 milhões (R$ 365.246.317,17)*. 
+Todo mundo tem uma opinião sobre o que deveria ser feito nas finanças da nossa universidade. Aqui está a sua chance de experimentar/testar as suas idéias. O valor total empenhado pela Unirio em 2016 foi de 365 milhões (R$ 365.246.317,17)*. 
 
 Este simulador foi construído para ilustrar as difíceis escolhas do orçamento para promover um diálogo público sobre o orçamento. Como serão as suas escolhas? Neste espaço você pode criar o seu próprio orçamento da Universidade.
 
@@ -15,11 +15,11 @@ Vamos te dar 365 milhões de reais. Isso representa 100% do orçamento. O seu tr
 
 #### Existem algumas regras.
 
-Queremos que você construa um orçamento da Universidade realista que possa funcionar na vida real. Financiamento, como FAPERJ e Editais, estão fora dos limites. Você deve equilibrar o orçamento em 100%, mas pode ficar abaixo desse número.
+Queremos que você construa um orçamento da Universidade realista que possa funcionar na vida real. Financiamentos, como FAPERJ, CNPQ e Editais, estão fora dos limites. Você deve equilibrar o orçamento em 100%, mas pode ficar abaixo desse número.
 
 #### Quanto tempo leva para fazer um orçamento?
 
-Normalmente cerca de 10 minutos. Depende de quão bem você gostaria de entender cada categoria do orçamento antes de alocar o financiamento, se quer ver o portal da transparência, se você decidir participar de pesquisas, etc.
+Normalmente cerca de 10 minutos. Depende de quão bem você gostaria de entender cada categoria do orçamento antes de alocar o financiamento. Você pode ainda ver o portal da transparência, bem como decidir participar de pesquisas, etc.
 
 #### O que acontece com os dados e as informações?
 

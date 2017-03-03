@@ -25,5 +25,5 @@ navbar:
       href: historia.html
 output:
   html_document:
-    theme: cosmo
-    highlight: textmate
+    theme: cerulean
+    highlight: pygments
