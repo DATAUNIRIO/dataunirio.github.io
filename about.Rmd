@@ -2,13 +2,36 @@
 title: "Bem vindo ao portal de Transparência e Accountability"
 ---
 
-Como e onde a Universidade escolhe gastar dinheiro público é fundamental para todos os cidadãos e molda a relação do Estado com a sociedade. Em muitos aspectos, a transparência nessa área é fundamental para a prestação de contas em todas as outras áreas. Quando os orçamentos e os processos orçamentais são abertos e transparentes, os cidadãos têm a *oportunidade de participar no seu desenvolvimento*, o que pode conduzir a uma utilização mais eficiente e eficaz dos recuros. Eles também podem *exigir mais do Estado*.
+Você já pensou como é importante a comunidade da Unirio  participar do processo orçamentário, em vez de deixar a decisão nas mãos de uma minoria? Além de poderem identificar as principais políticas que necessitam de recursos públicos, as pessoas fortalecem sua capacidade de transformar suas demandas em realidade. 
+
+## Decisão política
+
+Algumas pessoas (alunos, técnicos e professores) querem mais bolsas de pesquisa. Outras desejam creches. Há aquelas que consideram a extensão mais urgente. Umas acham que devemos investir em ensino a distância, outras pensam que devemos investir em tecnologia. Muitas querem criar patentes, outras querem comprar mais remédios. Para outras, é prioritário investir na área social.
+
+Como se pode perceber, os interesses são diferentes e até conflitantes. O que é prioritário para uns pode ser supérfluo para outros. Ao elaborarem o orçamento, os gestores fazem escolhas políticas, isto é, definem as prioridades de governo, que vão muito além de questões locais. Por isso, a sociedade deve ficar atenta às decisões sobre os recursos públicos, intervindo no processo orçamentário para defender suas demandas e propostas.
+
+## Transparência, Accountability e Controle Social
+
+O orçamento da Universidade é público. Todas as pessoas podem e devem ter acesso a seus números e saber para onde vai o dinheiro. 
 
 > Quando envio o meu filho para o mercado com 10 reais para comprar algo, eu exijo uma conta do dinheiro que eu lhe dei quando ele retorna para casa. Da mesma forma, quando a Universidade gasta o meu dinheiro, tenho o direito de pedir uma contabilidade dessas despesas.
 > - Diana dos Santos, Mãe
 
+Além de conhecer o conteúdo do orçamento e de se organizar para participar de sua elaboração, a comunidade deve acompanhar sua execução (a aplicação dos recursos).
 
-Ao longo da última década, surgiram em uma grande variedade de países iniciativas para promover a transparência nos orçamentos públicos. Sua experiência produziu uma riqueza de ferramentas bem-sucedidas para o controle social do orçamento. Agora é a vez da Unirio.
+## Acesso à informação
+
+Esse direito é indispensável para que haja democratização do processo orçamentário, participação da sociedade e controle social. Sem acesso à informação, torna-se impossível monitorar e controlar os gastos públicos.
+
+As bases de dados do orçamento da devem estar disponíveis para consulta. Buscamos disponibilizar esses dados, para que cidadãos e cidadãs possam ter conhecimento deles.
+
+## Despesas obrigatórias e discricionárias
+
+Existe dois tipos de despesa em qualquer orçamento público: as obrigatórias e as discricionárias. 
+
+Despesas obrigatórias são aquelas previstas em lei, ou seja, representam um gasto vinculado a determinado fim. A maioria dos recursos já está comprometida com essas despesas obrigatórias, como salários dos/as funcionários/as públicos/as; aposentadorias, pensões e benefícios da previdência social; 
+
+Despesas discricionárias são aquelas em que o gestor pode aplicar os recursos como quiser. Após as despesas obrigatórias, o recurso que “sobra” para aplicar é motivo de muitas disputas entre interesses diferentes.
 
 Estamos promovendo a transparência orçamentária por meio de uma plataforma de supervisão interativa do orçamento da Unirio.
 
@@ -18,9 +41,9 @@ O ciclo de transparência de acordo com o Banco Mundial pode ser visto na figura
 
 ## Para ter mais detalhes sobre as despesas da Universidade
 
-<p>Nesse site buscamos prover os atores (alunos, técnicos e professores) da Universidade com informações objetivas sobre o orçamento, de modo a facilitar o controle, a transparência e a tomada de decisão;
+<p>Nessa plataforma buscamos prover os atores (alunos, técnicos e professores) da Universidade com informações objetivas sobre o orçamento, de modo a facilitar o controle, a transparência e a tomada de decisão;
 
-<p>O portal da Transparência tem informações sobre o orçamento executado pela Unirio em 2016. A fonte dos dados é SIAFI.
+<p>O portal da Transparência tem informações sobre o orçamento executado pela Unirio em 2016. A fonte desses dados é o SIAFI.
 
 <p>Nesse site temos quatro abas: 
 
@@ -41,4 +64,7 @@ O ciclo de transparência de acordo com o Banco Mundial pode ser visto na figura
 
 O site pode ser visto nesse link: 
 <a href="https://duttross.shinyapps.io/transparencia1/" class="btn btn-default">Transparência</a>
+
+Referência:
+Manual de orçamento público “O orçamento público a seu alcance” Instituto de Estudos Socioeconômicos  – Brasília : INESC, 2006. 136 p. : il. (Manual de orçamento público)
 
