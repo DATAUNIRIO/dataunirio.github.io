@@ -1,0 +1,29 @@
+name: "DATAUNIRIO: Estatística, Transparência e Tecnologia"                                  # CHANGE HERE 
+output_dir: "."
+navbar:
+  title: "DATAUNIRIO"                               # CHANGE HERE 
+  type: inverse
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "Orçamento"
+      icon: fa-user 
+      href: engajamento.html
+    - text: "Transparência"
+      icon: fa-users
+      href: about.html
+    - text: "Download"
+      icon: fa-file-pdf-o
+      href: projeto.html
+  right:
+    - text: "Participar do projeto"
+      icon: fa-envelope-o
+      href: participar.html
+    - text: "Nossa História"
+      icon: fa-road
+      href: historia.html
+output:
+  html_document:
+    theme: cerulean
+    highlight: pygments
