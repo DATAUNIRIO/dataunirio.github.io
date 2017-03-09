@@ -13,7 +13,7 @@ navbar:
     - text: "Transparência"
       icon: fa-users
       href: about.html
-    - text: "Projeto"
+    - text: "Download"
       icon: fa-file-pdf-o
       href: projeto.html
   right:
