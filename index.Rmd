@@ -10,7 +10,7 @@ O objetivo do DATAUNIRIO é:
 Disponibilizar informações, dados e metodologias que aumentem a transparência e permitam ampliar o engajamento cívico e o comtrole social do orçamento.
 
 
-![](C:/Users/Hp/Desktop/R/dataunirio.github.io/datauniriologo.png)
+![](https://raw.githubusercontent.com/DATAUNIRIO/dataunirio.github.io/master/datauniriologo.png)
 
 
 ## Análise da Questão
@@ -19,7 +19,7 @@ Em uma Universidade como a nossa ainda estamos em um processo de aperfeiçoament
 
 Entretanto, um tema sobre o qual o conhecimento parece ainda ser bem pequeno, quase nulo, é o da importância do processo orçamentário. Olhado genericamente, o processo orçamentário de um país qualquer é o conjunto de regras que conduzem à elaboração, discussão, execução, acompanhamento e auditoria do orçamento público, o qual, por sua vez, é uma lista padronizada das receitas e despesas do governo. Ele traduz os custos do governo para a manutenção das atividades básicas de Estado e para a implementação de políticas públicas (LEAL, 2010).
 
-Desse modo, a análise do orçamento sob a ótica do *accountability* (transparência com prestação de contas) visa justamente aprimorar o processo orçamentário procurando o máximo possível criar condições para que os seus resultados sejam gerados em um ambiente com uma importante propriedade: a transparência. 
+Desse modo, a análise do orçamento sob a ótica do *accountability* (transparência com prestação de contas) visa justamente aprimorar o processo orçamentário procurando o máximo possível criar condições para que os seus resultados sejam gerados em um ambiente com uma importante propriedade: [a transparência.](https://duttross.shinyapps.io/transparencia1/)
 
 A transparência é uma condição necessária para o aperfeiçoamento, mas não suficiente. Locais com grande transparência ainda disponibilizam suas informações de forma desestruturada e confusa, embora razoavelmente coerente. Isso gera a dificuldade de entender e interpretar as informações. Um bom exemplo disso é o ambiente confuso do Instituto de Segurança Pública (ISP). Esse site traz estatísticas sobre diversos registros da segurança pública de forma transparente. Todavia, o site ainda é de difícil entendimento para o usuário comum e deixa para este ator a tarefa de modelar e construir informação.
 
