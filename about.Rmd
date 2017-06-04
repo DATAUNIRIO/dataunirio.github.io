@@ -45,7 +45,7 @@ O ciclo de transparência de acordo com o Banco Mundial pode ser visto na figura
 
 <p>O portal da Transparência tem informações sobre o orçamento executado pela Unirio em 2016. A fonte desses dados é o SIAFI.
 
-<p>Nesse site temos quatro abas: 
+<p>Nesse site temos três abas: 
 
 1. Gráfico
 2. Banco de Dados
