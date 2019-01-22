@@ -1,0 +1,79 @@
+#fh5co-header.navbar-fixed-top .navbar-brand {
+    /* color: #9752d3; */
+}
+
+#fh5co-home {
+    
+}
+
+#fh5co-intro {
+    padding-bottom: 0em !important;
+}
+
+#fh5co-home {
+    height: 700px !important;
+}
+
+.row-bottom-padded-lg {
+    margin: 0px auto;
+}
+
+#texto-centro-header {
+    padding-bottom: 280px;
+}
+
+#fh5co-intro .fh5co-block {
+    /* font-size: 0px !important; */
+}
+
+.fh5co-block {
+    height: 350px !important;
+}
+
+#message {
+    resize: vertical;
+}
+
+#fh5co-services {
+    background-size: cover;
+    /* position: relative; */
+}
+
+#fh5co-services .gradient {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    /* z-index: 2; */
+    opacity: .9;
+    background-color: #30aeb3;
+    background-image: repeating-linear-gradient(to bottom right, #3f95ea 0%, #30aeb3 100%);
+}
+
+.link-fundo-azul {
+    color: #fff;
+}
+
+.link-fundo-azul:hover, .link-fundo-azul:active, .link-fundo-azul:focus {
+    color: #176fa1;
+    outline: none;
+}
+
+.btn-link-app {
+    font-size: 115%;
+    margin-top: 20px;
+}
+
+.btn-app {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: center !important;
+}
+
+#logo-menu-img {
+    background-image: url("../images/logo.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-right: 148px;
+}
