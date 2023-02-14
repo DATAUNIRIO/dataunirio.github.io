@@ -1,0 +1,71 @@
+---
+title: "Uma análise das Emendas Parlamentares nas Universidades do Rio de Janeiro"
+author: "DATAUNIRIO"
+date: "2023-02-14"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Gráfico 1 - Emendas Liquidadas das Universidades por ano
+
+```{r, echo=FALSE,warning=FALSE,comment=NA,message=FALSE}
+library(dplyr)
+library(ddplot)
+#gapminder_subset <- gapminder::gapminder %>% select(country, year, pop) %>%
+#  filter(country %in% c("Japan", "Mexico", "Germany", "Brazil", "Mexico", "Philippines", "Vietnam")) %>%
+#  mutate(pop = pop/1e6)
+
+#gapminder_subset %>%
+#  barChartRace(
+#    x = "pop",
+#    y = "country",
+#    time = "year",
+#    ytitle = "Country",
+#    xtitle = "Population (in millions)",
+#    title = "Bar chart race of country populations"
+#  )
+library(readxl)
+emendas <- read_excel("~/GitHub/dataunirio.github.io/emendas/emendas_por_UO.xlsx")
+
+emendas_subset <- emendas %>% select(UO, Ano, Liquidado) %>%
+  filter(UO %in% c('26245 - Universidade Federal do Rio de Janeiro',
+'26433 - Instituto Federal do Rio de Janeiro',
+'26249 - Universidade Federal Rural do Rio de Janeiro',
+'26269 - Fundação Universidade do Rio de Janeiro',
+'26236 - Universidade Federal Fluminense'))
+remove(emendas)
+
+emendas_subset$UO <- gsub('26245 - Universidade Federal do Rio de Janeiro','UFRJ',emendas_subset$UO)
+emendas_subset$UO <- gsub('26433 - Instituto Federal do Rio de Janeiro','IFRJ',emendas_subset$UO)
+emendas_subset$UO <- gsub('26249 - Universidade Federal Rural do Rio de Janeiro','Rural',emendas_subset$UO)
+emendas_subset$UO <- gsub('26269 - Fundação Universidade do Rio de Janeiro','UNIRIO',emendas_subset$UO)
+emendas_subset$UO <- gsub('26236 - Universidade Federal Fluminense','UFF',emendas_subset$UO)
+emendas_subset$Ano <- as.integer(emendas_subset$Ano)
+
+emendas_subset = emendas_subset %>% group_by(UO, Ano) %>% summarise(Valor_liquidado=sum(Liquidado)) 
+
+#emendas_subset = arrange(emendas_subset, UO, Ano)
+
+emendas_subset %>%
+  barChartRace(
+    x = "Valor_liquidado",
+    y = "UO",
+    time = "Ano",
+    ytitle = "Universidade",
+    xtitle = "Emendas",
+    frameDur = 1500,
+    transitionDur = 1500,
+  )
+```
+
+Fonte dos dados: Painel do Orçamento do Sistema Integrado de Orçamento e Planejamento - [SIOP](https://www1.siop.planejamento.gov.br/QvAJAXZfc/opendoc.htm?document=IAS%2FExecucao_Orcamentaria.qvw&host=QVS%40pqlk04&anonymous=true&sheet=SH06) &
+Painel de Análise das Emendas Parlamentares Pagas ao Ensino Superior - [PANEPPES](https://paneppes.netlify.app/)
+
+Informações importantes:
+1. Os valores são nominais (ainda não foi corrigida a inflação),     
+2. Foram considerados os valores liquidados para a construção do gráfico,    
+3. Não foram considerados os hospitais universitários.    
+
